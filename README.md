@@ -92,5 +92,12 @@ These metrics suggest that the models are capable of effectively predicting stoc
 ## 🎯 Conclusion
 
 This project successfully demonstrates the use of **LSTM-based models** for **stock market prediction**. By employing both **Standard LSTM** and **BiLSTM**, we observe that BiLSTM captures more temporal patterns due to its bidirectional processing. The results validate the potential of deep learning in stock price forecasting.
+## 📚 References
+
+1. **Stock Market Prediction Using LSTM Recurrent Neural Network**
+   - **Published in**: *ScienceDirect*
+   - **Summary**: This paper explores the application of LSTM networks for stock market prediction, focusing on the precision of machine learning algorithms and the impact of training epochs on model performance.
+   - **Link**: [Stock Market Prediction Using LSTM Recurrent Neural Network](https://www.sciencedirect.com/science/article/pii/S1877050920304865)
+
 
 
